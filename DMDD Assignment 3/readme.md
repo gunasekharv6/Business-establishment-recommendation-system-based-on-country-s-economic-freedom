@@ -17,6 +17,7 @@ Steps to run python file for exploratory data an alysis and data visualization:
 4. Export the EDA_Assignment3_DMDD.py file and run it on pycharm.
 Note:
 Some visualizations might take up more time to display depending on the size of the data being plotted.
+You can add a note saying "Refer to the .py file for more visualizations" 
 
 This file includes:
 Gathering, Scraping, Munging, and Cleaning Data
